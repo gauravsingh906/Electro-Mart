@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Gaurav Phone",
+        "price": "30000",
+        "company": "Google",
+        "color": "blue",
+        "category": "smartphone"
+    },
+    {
+        "name": "Pixel Laptop",
+        "price": "80000",
+        "company": "Google",
+        "color": "silver",
+        "category": "laptop"
+    },
+    {
+        "name": "Google Tab",
+        "price": "40000",
+        "company": "Google",
+        "color": "black",
+        "category": "tablet"
+    },
+    {
+        "name": "iPhone 14",
+        "price": "90000",
+        "company": "Apple",
+        "color": "white",
+        "category": "smartphone"
+    },
+    {
+        "name": "MacBook Pro",
+        "price": "150000",
+        "company": "Apple",
+        "color": "space gray",
+        "category": "laptop"
+    },
+    {
+        "name": "iPad Air",
+        "price": "60000",
+        "company": "Apple",
+        "color": "rose gold",
+        "category": "tablet"
+    },
+    {
+        "name": "Galaxy S21",
+        "price": "70000",
+        "company": "Samsung",
+        "color": "phantom black",
+        "category": "smartphone"
+    },
+    {
+        "name": "Galaxy Book",
+        "price": "85000",
+        "company": "Samsung",
+        "color": "navy blue",
+        "category": "laptop"
+    },
+    {
+        "name": "Galaxy Tab S7",
+        "price": "50000",
+        "company": "Samsung",
+        "color": "bronze",
+        "category": "tablet"
+    }
+]
